@@ -38,3 +38,8 @@
 
 
 
+참고 : 
+
+https://ko.wikipedia.org/wiki/%EB%9E%9C%EB%8D%A4_%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8#cite_note-Breiman1996-4 [위키백과: 랜덤포레스트]
+
+https://ko.wikipedia.org/wiki/%EB%B0%B0%EA%B9%85 [위키백과 : 배깅]
