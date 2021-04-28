@@ -38,6 +38,17 @@
 
 
 
+포레스트 예측결과 = 모든 트리의 예측결과들의 평균.
+
+### 매개변수
+
+1. 포레스트의 크기 (= 트리의 개수) : 트리가 많을수록 test time ↑ , generalization↑
+2. 최대 허용 깊이: 허용깊이가 너무 크면 overfitting, 너무 작으면 underfitting
+3. 임의성의 정도와 종류
+4. 노드 분할 함수의 선택 등등
+
+
+
 참고 : 
 
 https://ko.wikipedia.org/wiki/%EB%9E%9C%EB%8D%A4_%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8#cite_note-Breiman1996-4 [위키백과: 랜덤포레스트]
